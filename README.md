@@ -13,4 +13,4 @@ Voici une démonstration du fonctionnement du dashboard web contrôlant la maque
 
 Le circuit a été conçu sur breadboard selon le schéma suivant :
 
-![Schéma du circuit électronique](assets/Circuit-Schematic.png)
+![Schéma du circuit électronique](assets/Circuit-Schematic.PNG)
